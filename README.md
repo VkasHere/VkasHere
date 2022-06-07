@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vkas Pankaj
-- 🌱 I’m currently learning Flutetr.
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 Dm me on Instagram @vkas_here.
 
